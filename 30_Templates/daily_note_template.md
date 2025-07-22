@@ -1,0 +1,6 @@
+
+# {{date}}
+Mood::  
+Tasks::  
+
+## Captures
