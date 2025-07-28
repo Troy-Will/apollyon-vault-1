@@ -14,7 +14,12 @@ links:
   - - - Canary Test Deck
   - - - Dataset Provenance Manifest Template
 source: "YouTube: *AI researchers shocked as models quietly learn to be evil* + discussion"
+aliases:
+  - Armor of God Architecture
 ---
+
+
+
 [[Canary Test Deck]]
 [[Dataset Provenance Manifest Template]]
 [[Sentinel Evaluator Protocol]]

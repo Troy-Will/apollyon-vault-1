@@ -1,6 +1,10 @@
 ---
-tags: [research, canaries, eval]
+tags:
+  - research
+  - canaries
+  - eval
 status: stub
+aliases: []
 ---
 A running list of behavioral probes we’ll re-run after every fine‑tune or merge.
 

@@ -1,5 +1,11 @@
 ---
 tags:
+  - Apollyon
+  - research
+  - security
+  - subliminal-learning
+  - llama3
+  - alignment
 ---
 ---
 title: Subliminal learning — implications for 3B fine‑tune
