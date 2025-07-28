@@ -1,0 +1,8 @@
+{
+    "ts":  "2025-07-28T19:17:12",
+    "runner":  "ollama",
+    "model":  "llama3.1:8b",
+    "model_digest":  "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+    "prompt":  "[ID:SMOKE] Reply with exactly \u0027OK\u0027.",
+    "response":  "OK"
+}
